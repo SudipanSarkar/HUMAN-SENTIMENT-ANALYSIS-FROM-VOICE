@@ -25,10 +25,10 @@ def resample_audio(data, orig_sr, target_sr=8000):
 
 
 # ---------------- DATASET PATHS ----------------
-ravdess_path = r"C:\Users\SUDIPAN SARKAR\OneDrive\Desktop\Final Year Project\RAVDESS DATA SET"
-savee_path   = r"C:\Users\SUDIPAN SARKAR\OneDrive\Desktop\Final Year Project\SAVEE DATASET\ALL"
-crema_path   = r"C:\Users\SUDIPAN SARKAR\OneDrive\Desktop\Final Year Project\CREMA Dataset\AudioWAV"
-tess_path    = r"C:\Users\SUDIPAN SARKAR\OneDrive\Desktop\Final Year Project\TESS Data set"
+ravdess_path = r"C:\Users\SUDIPAN SARKAR\OneDrive\Desktop\PROJECTS\RAVDESS DATA SET"
+savee_path   = r"C:\Users\SUDIPAN SARKAR\OneDrive\Desktop\PROJECTS\SAVEE DATASET"
+tess_path   = r"C:\Users\SUDIPAN SARKAR\OneDrive\Desktop\PROJECTS\TESS Data set"
+crema_path = r"C:\Users\SUDIPAN SARKAR\OneDrive\Desktop\PROJECTS\CREMA Dataset"
 
 
 # ---------------- GET WAV FILES ----------------
