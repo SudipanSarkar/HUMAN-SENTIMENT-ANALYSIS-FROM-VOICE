@@ -12,13 +12,13 @@ These datasets are not included in this repository because of their large size.
 ## Download Sources
 
 ### RAVDESS
-https://zenodo.org/record/1188976
+https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
 ### SAVEE
-http://kahlan.eps.surrey.ac.uk/savee/
+https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee
 
 ### CREMA-D
-https://github.com/CheyneyComputerScience/CREMA-D
+https://www.kaggle.com/datasets/ejlok1/cremad
 
 ### TESS
-https://tspace.library.utoronto.ca/handle/1807/24487
+https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
